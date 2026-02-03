@@ -7,7 +7,7 @@ This is my minimalistic Tmux config for my Omarchy Cyberpunk Theme. Here you wil
 ## Setup
 
 ```bash
-cd ~/.config/tmux
+cd ~/.config
 git clone https://github.com/Doxe187/tmux.git
 ```
 
