@@ -22,7 +22,7 @@ tmux is a terminal multiplexer. It lets you switch easily between several progra
 
 ---
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c296862e-34a3-48fb-9e31-86c1fd7a0084" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b4fbf78-ecb2-4b11-bb49-a3109b6e043e" />
 
 
 ## Lizenz ⚖️
