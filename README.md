@@ -13,7 +13,7 @@ git clone https://github.com/Doxe187/tmux.git
 ```
 ---
 
-## Verwendung
+## Usage
 
 ### Cyberpunk Tmux
 
